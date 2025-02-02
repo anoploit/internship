@@ -1,0 +1,6 @@
+- connected: true
+  id: 001050326684
+  platform: nrf52dk_nrf52832
+  product: J-Link
+  runner: jlink
+  serial: /dev/ttyACM0
